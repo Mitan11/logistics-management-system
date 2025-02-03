@@ -35,9 +35,10 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/logistics-management-system.git
    cd logistics-management-system
 
-```bash
+2. **Run project** :
+   ```bash
    npm install
 
    npm start
-
-Thank YOU
+   
+Thank You
