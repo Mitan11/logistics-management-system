@@ -38,7 +38,6 @@ To run this project locally, follow these steps:
 ```bash
    npm install
 
-```bash
    npm start
 
 Thank YOU
