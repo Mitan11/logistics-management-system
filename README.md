@@ -13,9 +13,6 @@ This project is a **Logistics Management System** designed to manage bids, vendo
 2. **Vendor Management**:
    - Manage vendor information and track their performance.
 
-3. **User Management**:
-   - Handle user roles and permissions.
-
 4. **Responsive Design**:
    - The application is fully responsive and works seamlessly on different screen sizes.
 
