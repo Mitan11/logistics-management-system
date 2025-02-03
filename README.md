@@ -1,7 +1,7 @@
 # Logistics Management System
 
 ## Description
-This project is a **Logistics Management System** designed to manage bids, vendors, and users efficiently. It provides a user-friendly interface for tracking bids, managing vendors, and handling user roles. The system is built using **React**, **Material-UI (MUI)**, and **Toolpad** for seamless UI/UX.
+This project is a **Logistics Management System** designed to manage bids, vendors, and users efficiently. It provides a user-friendly interface for tracking bids, managing vendors, and handling user roles. The system is built using **React** and **Material-UI (MUI)** for seamless UI/UX.
 
 ---
 
